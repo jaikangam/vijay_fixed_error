@@ -1,0 +1,6 @@
+#Force www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^wereachindia.com [NC]
+RewriteRule ^(.*)$ http://www.wereachindia.com/$1 [L,R=301,NC]
+
+Redirect 301 /pay https://www.instamojo.com/wereach

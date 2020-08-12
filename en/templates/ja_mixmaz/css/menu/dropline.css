@@ -1,0 +1,146 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+
+#jasdl-mainnav {
+	float:left;
+	  font-family: 'novecento_wide_ultralightbold', sans-serif;
+}
+
+#jasdl-mainnav ul {
+	float:left;
+}
+
+#jasdl-mainnav ul li{
+	border-left:1px solid #262425;
+	border-right:1px solid #000000;
+}
+
+#jasdl-mainnav ul li.first-item{
+	border-left:none;
+}
+
+#jasdl-mainnav ul li.last-item{
+	border-right:none;
+}
+
+#jasdl-mainnav ul li a{
+  border-top: 1px solid transparent;
+  color: #fff;
+  font-size: 13px;
+  font-weight:normal;
+  line-height: 49px;
+  padding: 0 16px;
+  text-transform: uppercase;
+}
+
+#jasdl-mainnav ul li a:hover,
+#jasdl-mainnav ul li a:focus,
+#jasdl-mainnav ul li a:active,
+#jasdl-mainnav ul li a.active:hover,
+#jasdl-mainnav ul li.hover a{
+	background:#121315;
+	border-top-color:#e1223f;
+	color:#e1223f;
+}
+
+#jasdl-mainnav ul li a.active,
+#jasdl-mainnav ul li a.active:active,
+#jasdl-mainnav ul li a.active:focus {
+	background: #121315;
+	border-top-color:#e1223f;
+	color: #fff
+}
+
+/* Sub Nav ---*/
+#jasdl-subnav,
+#ja-subnav {
+		font-family:"Courier New",Helvetica,Arial,sans-serif;
+}
+
+#ja-subnav .main-inner1 {
+	background-color: #121315;
+}
+
+#ja-subnav li{
+	border-left: 1px solid #262425;
+	border-right: 1px solid #000000;
+	margin: 0;
+	padding: 11px 10px;
+}
+
+#ja-subnav li.first-item{
+	border-left:none;
+}
+
+#ja-subnav li.last-item{
+	border-right:none;
+}
+
+#ja-subnav ul li a{
+	border-top:none;
+	color: #999;
+	text-transform: capitalize;
+}
+
+#ja-subnav ul li a:hover,
+#ja-subnav ul li.hover a{
+	color:#fff;
+}
+
+#ja-subnav ul li.active a.active, 
+#ja-subnav ul li.active a.active:hover, 
+#ja-subnav ul li.active a.active:active, 
+#ja-subnav ul li.active a.active:focus {
+	color:#e1223f;
+}
+
+/* Sub Nav (lv2) ---*/
+#ja-subnav ul li ul {
+	background: #121315;
+	border: 1px solid #222;
+}
+
+#ja-subnav ul li ul li {
+	border-bottom: 1px solid #222;
+}
+
+#ja-subnav ul li.hover ul li a{
+	color:#999;
+}
+
+#ja-subnav ul li ul li a:hover,
+#ja-subnav ul li ul li.hover a{
+	color:#fff;
+}
+
+#ja-subnav ul li ul li.last-item {
+	border-bottom: none;
+}
+
+#ja-subnav ul li.haschild.hover a.haschild span.menu-title,
+#ja-subnav ul li.haschild a.haschild:hover span.menu-title { background: url(../../images/arrow3.png) no-repeat right center; }
+
+/* Sub Nav (lv3) ---*/
+#ja-subnav ul li.haschild.hover ul li span.menu-title{
+	background:none;
+}
+
+#ja-subnav ul li ul li.hover ul li a{
+	color:#999;
+}
+
+#ja-subnav ul li ul li ul li a:hover,
+#ja-subnav ul li ul li ul li.hover a{
+	color:#fff;
+}
+
+#ja-subnav ul li.haschild ul li.haschild a.haschild span.menu-title{ background: url(../../images/arrow.png) no-repeat right center; }

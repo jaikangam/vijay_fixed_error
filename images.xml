@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!-- 
+set transition number from 1 to 9
+set transition number to 0 for random effect
+ -->
+<RSS PAUSE="4000">
+	  
+	<IMAGE TRANSITION="11" TITLE="img1">xmlgal/img1.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img2">xmlgal/img2.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/img3.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img4">xmlgal/img4.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img5">xmlgal/img5.gif</IMAGE>
+	
+	
+	<!--<IMAGE TRANSITION="11" TITLE="img3">xmlgal/05.gif</IMAGE>
+	<IMAGE TRANSITION="4" TITLE="img3">xmlgal/06.gif</IMAGE> 
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/07.gif</IMAGE> 
+	<IMAGE TRANSITION="5" TITLE="img3">xmlgal/08.gif</IMAGE> 
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/09.gif</IMAGE> 
+	<IMAGE TRANSITION="6" TITLE="img3">xmlgal/10.gif</IMAGE> 
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/11.gif</IMAGE>
+	<IMAGE TRANSITION="7" TITLE="img3">xmlgal/12.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/13.gif</IMAGE>
+	<IMAGE TRANSITION="8" TITLE="img3">xmlgal/14.gif</IMAGE>
+	<IMAGE TRANSITION="11" TITLE="img3">xmlgal/11.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img4">xmlgal/04.jpg</IMAGE>    
+	<IMAGE TRANSITION="11" TITLE="img5">xmlgal/05.jpg</IMAGE>    
+	<IMAGE TRANSITION="11" TITLE="img6">xmlgal/06.jpg</IMAGE>		 
+	<IMAGE TRANSITION="11" TITLE="img7">xmlgal/07.jpg</IMAGE>         
+	<IMAGE TRANSITION="11" TITLE="img8">xmlgal/08.jpg</IMAGE> 
+	<IMAGE TRANSITION="11" TITLE="img9">xmlgal/09.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img10">xmlgal/10.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img11">xmlgal/11.jpg</IMAGE>     
+	<IMAGE TRANSITION="11" TITLE="img12">xmlgal/12.jpg</IMAGE>		  
+	<IMAGE TRANSITION="11" TITLE="img13">xmlgal/13.jpg</IMAGE> 
+	<IMAGE TRANSITION="11" TITLE="img14">xmlgal/14.jpg</IMAGE>  
+	<IMAGE TRANSITION="11" TITLE="img15">xmlgal/15.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img16">xmlgal/16.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img17">xmlgal/17.jpg</IMAGE>    
+	<IMAGE TRANSITION="11" TITLE="img18">xmlgal/18.jpg</IMAGE>		
+	<IMAGE TRANSITION="11" TITLE="img19">xmlgal/19.jpg</IMAGE>        
+	<IMAGE TRANSITION="11" TITLE="img20">xmlgal/20.jpg</IMAGE>  
+	<IMAGE TRANSITION="11" TITLE="img21">xmlgal/21.jpg</IMAGE>  
+	<IMAGE TRANSITION="11" TITLE="img22">xmlgal/22.jpg</IMAGE>  
+	<IMAGE TRANSITION="11" TITLE="img23">xmlgal/23.jpg</IMAGE>   
+	<IMAGE TRANSITION="11" TITLE="img24">xmlgal/24.jpg</IMAGE>		
+	<IMAGE TRANSITION="11" TITLE="img25">xmlgal/25.jpg</IMAGE>   
+	-->
+		
+</RSS>
+

@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+.subbanner{background-color:#E47410; width:100%; height:60px;}
+.subbanner h1{margin:0px; padding:0px; padding:5px  55px; color:#fff; font-weight:300; font-size: 28px;}
+.subbanner h2{margin:0px; padding:0px; padding:5px  15px; color:#fff; font-weight:300;}
+.main{width:90%; margin:0px auto;}
+
+#boxnew{padding:0px 45px;}
+.partner{width:100%; height:auto; margin-top:30px; margin-bottom:30px;}
+.partnernew{width:100%; height:auto; padding-top:50px; poadding-bottom:30px;}
+
+.partner1{width:100px; height:auto; float:left;}
+.partner2{width:100px; height:auto; float:left;margin-left:20px;}
+
+.itservice{width:100%; height:auto; margin-top:20px;}
+.itser1{width:100%; height:auto;}
+.itleft{width:32%; height:auto;  float:left;}
+
+.itleft1{width:100%; height:auto;  float:left; border-right:5px solid #E47410;}
+
+.itleft1 h3{color:#2B2F34; margin:0px;  height:50px; font-weight:600;}
+
+.itleft2{width:280px; height:auto;  float:left;}
+
+
+.itright{width:60%; height:auto;  float:left; margin-left:30px;}
+.itright p{margin:0px; padding:0px;}
+.bulnew{margin:0px; padding:0px; list-style:none; }
+
+.itservice2{width:100%; height:auto; margin-top:50px;}
+
+.bulnew1{margin:0px; padding:0px; list-style:none; width:60%; float:left;}
+.bulnew1 li a{color:#2B2F34; text-transform:uppercase; font-size:14px; font-weight:600;}
+.bulnew1 li a:hover{color:#E47410;}
+.googmap{margin:0px auto; width:94%; margin-bottom:20px; background:none;}
+.newit{width:100%;  height:auto;}
+.itrightnew{float:right; width:22%; height:auto; margin-top:20px; }
+.mynewit{width:75%; height:auto; float:left; }
+.acces1{width:100%;  height:auto; margin-bottom:20px;}
+.acces1head{width:100%; height:30px; background-color:#E47410;}
+.acces1head h6{color:#fff; font-size:18px;padding:0px; margin:0px; padding:8px 10px; text-align:center; font-weight:300;}
+.accnew{width:auto; height:auto; border:1px solid #ededed; margin:0px;}
+.serac{width:auto; height:auto; padding:5px 10px;}
+.serac p{padding:0px; margin:0px; width:auto; border-bottom:dotted 1px #ededed; text-align:center; color:#2B2F34; font-size:16px; font-weight:600;}
+.serac a{color:#2B2F34; font-weight:600;}
+.serac a:hover{color:#E47410; }
+.alltext{margin:0px; padding:0px;font: normal 14px/22px "Lato";
+    text-align: justify;}
+.newexp{margin-top:50px;}
+.clients1{width:100%; height:auto; margin-top:20px;}
+.clients2{width:100%; height:auto; margin-top:20px; padding-bottom:40px}
+.cli1{width:216px; height:113px; float:left;}
+.cli2{width:216px; height:113px; float:left; margin-left:10px;}
+.sales1{width:130px; height:130px; float:left;}
+.sales2{width:130px; height:130px; float:left; margin-left:100px;}
+.salname{width:auto; height:auto;}
+.salname h3{text-align:center; color:#2B2F34; font-size:18px;}
+
+
+@media (max-width: 767px){
+
+.subbanner{width:100%; height:auto;}
+.subbanner h2{margin:0px; padding:0px; padding:0px 15px;}
+.main{width:100%; margin:0px auto;}
+.alltext{margin:0px; padding:0px; padding:0px 20px; margin:1em 0;}
+#boxnew{padding:0px;}
+.partner{width:100%; height:auto; margin-top:10px; margin-bottom:0px;}
+.partnernew{width:100%; height:auto; padding-top:50px; poadding-bottom:30px;}
+
+.partner1{width:100%; height:auto; float:none;}
+.partner1 img{ margin:0px auto;}
+.partner2{width:100%; height:auto; float:none;margin-left:0px; margin-top:10px;}
+.partner2 img{ margin:0px auto;}
+
+.itservice{width:100%; height:auto; margin-top:0px; margin-bottom:20px;}
+.itser1{width:100%; height:auto;}
+.itleft{width:100%; height:auto;  float:none;}
+
+.itleft1{width:90%; height:auto;  float:none;}
+
+.itleft1 h3{margin:0px;  height:auto; padding:0px 20px; text-align:center;}
+
+.itleft2{width:100%; height:auto;  float:none; margin-top:10px; margin-bottom:20px;}
+.itleft2 img{margin:0px auto; text-align:center;}
+
+
+
+.itright{width:100%; height:auto;  float:none; margin-left:0px;}
+.itright p{margin:0px; padding:0px; padding:0px 20px; text-align:justify;}
+
+.bulnew{margin:0px; padding:0px; list-style:none; padding:0px 20px; }
+
+.itservice2{width:100%; height:auto; margin-top:0px; margin-bottom:20px;}
+
+
+.bulnew1{margin:0px; padding:0px; list-style:none; width:100%; float:none; padding:0px 20px;}
+
+.googmap{margin:0px auto; width:100%; margin-bottom:0px; background:none;}
+.newit{width:100%;  height:auto;}
+.itrightnew{float:right; width:100%; height:auto; margin-top:20px; }
+.mynewit{width:100%; height:auto; float:none; }
+.acces1{width:100%;  height:auto; margin-bottom:10px;}
+.acces1head{width:100%; height:30px; }
+.acces1head h6{padding:8px 10px; text-align:center; font-weight:300;}
+.accnew{width:100%; height:auto; border:1px solid #ededed; margin:0px;}
+.serac{width:100%; height:auto; padding:5px 10px;}
+.serac p{width:auto;  text-align:center;}
+
+.clients1{width:100%; height:auto; margin-top:10px;}
+.clients2{width:100%; height:auto; margin-top:10px; padding-bottom:10px}
+.cli1{width:100%; height:auto; float:none;}
+
+.cli2{width:100%; height:auto; float:none; margin-left:0px; margin-top:30px;}
+
+.sales1{width:100%; height:auto; float:none;}
+.sales2{width:100%; height:auto; float:none; margin-left:0px; margin-top:40px;}
+.salname{width:auto; height:auto;}
+
+}

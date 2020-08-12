@@ -1,0 +1,90 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA University Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+
+@import url(../fonts/novecentowide/stylesheet.css);
+
+body {
+  background: url(../images/pattern-d.gif) repeat left top;
+  font-family: "Courier New", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+.error {
+  background:none;
+  margin: 200px auto 0;
+  overflow: hidden;
+  width: 480px;
+}
+
+.error #outline {
+	color:#666;
+	text-align: center;
+}
+
+.error #outline h1 {
+	background:url(../images/bkg-diagonal1.png) no-repeat center center;
+	color:#fff;
+	font-family: 'novecento_wide_bookregular';
+	font-size: 15.000em;
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+}
+
+.error #outline .error-message {
+	color:#999;
+	font-size: 2.500em;
+	margin-bottom: 20px;
+	text-transform:uppercase;
+}
+
+.error #errorboxbody {
+  font-size: 1.2em;
+}
+
+.error #errorboxbody p{
+	display:inline-block;
+	width:100%;
+}
+
+a.button{
+  background: #e31837;
+  border:none;
+  color: #fff;
+  display:inline-block;
+  line-height:normal;
+  padding: 7px 10px;
+  text-transform: uppercase;
+  text-decoration:none;
+  transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+}
+
+a.button:hover {
+  background: #fff;
+  color: #000;
+  border:none;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 479px) {
+	
+	.error {
+		width: 100%;
+	}
+	
+	.error #outline h1 {
+		font-size: 10em;
+	}
+
+}

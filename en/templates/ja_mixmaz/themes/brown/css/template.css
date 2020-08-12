@@ -1,0 +1,225 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+
+::-moz-selection,
+::selection { 
+   background: #bc9a6a; 
+}
+
+/* Normal links ---*/
+a {
+  color: #bc9a6a;
+}
+
+/* FORM
+--------------------------------------------------------- */
+textarea:hover, textarea:focus, textarea:active,
+input:hover, input:focus, input:active,
+select:hover, select:focus, select:active,
+input.inputbox:hover, input.inputbox:hover, input.inputbox:active {
+	border-color: #bc9a6a;
+}
+
+input[type=submit]:hover,
+button:hover,
+.button:hover{
+  background-color: #bc9a6a;
+}
+
+button[type=reset]:hover,
+.button.btn-reset:hover {
+	background: #bc9a6a !important;
+}
+
+/* Pagination ---*/
+.pagination ul li a:hover,
+.pagination ul li a:focus,
+.pagination ul li a:active {
+  background-color: #bc9a6a;
+}
+
+.pagination ul li span {
+  background-color: #bc9a6a;
+}
+/* Module class suffix */
+div.ja-moduletable h3, div.moduletable h3 {
+    background-image: url("../images/h3-red-bg.gif");
+}
+
+div.moduletable.pattern-r {
+  background: url(../images/pattern-brown.gif) #bc9a6a;
+}
+
+/* Module title red */
+div.moduletable.title-red h3 span{
+	background: #bc9a6a;
+	-moz-box-shadow: 10px 0 0 0px #bc9a6a, -10px 0 0 0px #bc9a6a;
+	-webkit-box-shadow: 10px 0 0 0px #bc9a6a, -10px 0 0 0px #bc9a6a;
+	box-shadow: 10px 0 0 0px #bc9a6a, -10px 0 0 0px #bc9a6a;
+}
+
+
+/* Module high light */
+div.moduletable.mod-hilite {
+  background: url(../images/pattern-brown.gif) #bc9a6a;
+}
+
+div.moduletable.mod-dark ul li a {
+  background: url(../images/bullet-red.png) no-repeat 0px 6px !important;
+}
+
+div.moduletable.mod-dark a {
+  color: #bc9a6a;
+}
+
+/* Logo Image ---*/
+h1.logo a {
+  background-image: url(../images/logo.png);
+}
+
+#ja-topsl1 .ja-slidenews-item .ja-createdate {
+  background: #bc9a6a;
+}
+
+#ja-topsl1 .ja-slidenews-item h4.item-title a:hover {
+  background: #bc9a6a;
+  box-shadow: 10px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+}
+
+#ja-topsl1 .ja-slidenews-item a:hover{
+  color: #bc9a6a;
+}
+
+/* Bot spotlight ---*/
+
+#ja-botsl .ja-title {
+	background: #bc9a6a;
+	box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+	-moz-box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+	-webkit-box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+}
+
+#ja-botsl .pattern-r .ja-title:hover{
+	color: #bc9a6a;
+}
+
+#ja-botsl .ja-shopnow:hover {
+  color: #bc9a6a;
+}
+
+#ja-botsl .ja-moduletable a.readon, 
+#ja-botsl .moduletable a.readon {
+  color: #bc9a6a;
+}
+
+/* Bottom spotlight 1 ---*/
+#ja-botsl1 {
+  background: #bc9a6a url(../images/pattern-brown.gif);
+}
+
+
+#ja-footer {
+  background: url(../images/pattern-brown.gif) repeat left top #bc9a6a;
+}
+
+#ja-footer .main a{
+	color:#bc9a6a;
+}
+
+#ja-navhelper {
+	background-image: url(../images/bkg-diagonal-navhelper.png);
+}
+
+ul.social-list li a {
+    background-image: url("../images/icon-social.png");
+}
+
+/* Module Content Slider ----*/
+
+.moduletable.ja-content-slider div.title span {
+	background: #bc9a6a;
+	box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+	-moz-box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+	-webkit-box-shadow: 8px 0 0 #bc9a6a, -10px 0 0 #bc9a6a;
+}
+
+.moduletable.ja-content-slider div.link-buy a:hover,
+.moduletable.ja-content-slider div.link-buy a:hover span{
+	background: #bc9a6a;
+}
+
+/* Default Joomla! Menu ---*/
+#ja-container ul.menu li a:hover,
+#ja-container ul.menu li a:focus,
+#ja-container ul.menu li a:active { 
+	color: #bc9a6a !important; 
+}
+
+#ja-container ul.menu li.active a,
+#ja-container ul.menu li.active li.active a,
+#ja-container ul.menu li.active li.active li.active a,
+#ja-container ul.menu li.active li.active li.active li.active a {
+	color: #bc9a6a;
+}
+
+div.categories-list a:hover, div.categories-list a:active, 
+div.categories-list a:focus, .weblink-category a:hover, 
+.weblink-category a:active, .weblink-category a:focus {
+	color: #bc9a6a;
+}
+
+.short-info .socials li a {
+  background-image: url(../images/icon-social-small.png);
+}
+
+div.biography .readmore a {
+	background-image: url(../images/icon-social-small.png);
+}
+
+.moduletable.ja-title h3.title-hilite{
+  background-image: url(../images/h3-red-bg2.gif);
+}
+
+#ja-botsl1 .acymailing_form input.subbutton:hover{
+	background-image:url(../images/btn-go-hover.png);
+}
+
+div.tbl-calendar a:hover,
+div.tbl-calendar a:focus,
+div.tbl-calendar a:active {
+  background-color: #bc9a6a;
+}
+
+h1.componentheading, .componentheading {
+	background-image: url(../images/bkg-diagonal.png);
+}
+
+.avatar ul li a {
+	color: #bc9a6a;
+}
+
+div.ja-sample-gallery .ja-ss-thumbs div.active img {
+	border-color: #bc9a6a;
+}
+
+
+.badge {
+	background-image: url(../images/badge.png);	
+}
+
+h1.category-name {
+	background-image: url(../images/h3-red-bg2.gif);
+}
+
+#ja-full-bg .main-background {
+	background-image: url(../images/main-bg.png);
+}

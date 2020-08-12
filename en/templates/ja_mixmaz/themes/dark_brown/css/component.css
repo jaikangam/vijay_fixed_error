@@ -1,0 +1,21 @@
+/**
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+ */
+ 
+ /* Normal links ---*/
+a {
+  color: #9d5042;
+}
+
+#mailto-window .button:hover {
+  background: #9d5042;
+  border-color: #9d5042;
+}

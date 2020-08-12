@@ -1,0 +1,89 @@
+/**
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+ */
+ 
+ 
+div.moduletable.title-red h3,
+div.moduletable.title-white h3,
+div.moduletable.title-black h3 {
+  padding-left: 0px;
+}
+
+#ja-topsl .ja-moduletable .ja-ss-desc h3 span {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#ja-topsl .ja-moduletable .ja-ss-desc p {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.moduletable.ja-content-slider div span {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#ja-botsl .ja-slidenews-item .ja-createdate {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#ja-botsl .ja-slidenews-item h4.item-title {
+	padding-left: 0px;
+}
+
+#ja-botsl .wrap-ja-title {
+	padding-left: 0px;
+}
+
+#ja-botsl .ja-shopnow {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+div.itemHeader h2.itemTitle,
+div.tagItemHeader h2.tagItemTitle,
+div.catItemHeader h3.catItemTitle,
+div.userItemHeader h3.userItemTitle,
+div.genericItemHeader h2.genericItemTitle {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+div.itemHeader h2.itemTitle span,
+div.tagItemHeader h2.tagItemTitle a,
+div.catItemHeader h3.catItemTitle a,
+div.userItemHeader h3.userItemTitle a,
+div.genericItemHeader h2.genericItemTitle a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+/* Reset CSS3 for VM */
+.vm-category ul.VMmenu li {
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.category-view .row .category .spacer h2 a span{
+	left: 0;
+}
+
+.category-view .row .product .spacer h2, 
+.featured-view .row .product .spacer h2, 
+.latest-view .row .product .spacer h2, 
+.topten-view .row .product .spacer h2, 
+.related-products-view .row .product .spacer h2,
+.browse-view .row .product .spacer h2{
+	padding-left: 0px;
+	padding-right: 0px;
+}

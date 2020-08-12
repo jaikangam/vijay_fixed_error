@@ -1,0 +1,22 @@
+/**
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+ */
+ 
+div.itemAuthorLatest ul li,
+div.itemRelated ul li {
+	padding: 5px 0 5px 10px !important;
+}
+
+div.itemAuthorLatest ul li a,
+div.itemRelated ul li a {
+	background-position: 0px 4px !important;
+}
+ 

@@ -1,0 +1,1 @@
+var $JAM = jQuery.noConflict();

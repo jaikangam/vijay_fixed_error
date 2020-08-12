@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------------------
+ * JA Mixmaz Template
+ * ------------------------------------------------------------------------
+ * Copyright (C) 2004-2011 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+ * @license - Copyrighted Commercial Software
+ * Author: J.O.O.M Solutions Co., Ltd
+ * Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+ * This file may not be redistributed in whole or significant part.
+ * ------------------------------------------------------------------------
+*/
+
+body#bd {
+  background: #fff;
+}
+
+/* MODULE STYLES
+--------------------------------------------------------- */
+/* Module big title */
+span.inline {
+  background: #e31837;
+}
+
+#ja-topsl .ja-moduletable h3,
+#ja-topsl .moduletable h3,
+#ja-topsl1 div.moduletable h3,
+#ja-topsl2 div.moduletable h3 {
+	color: #000;
+}
+
+/* MAIN LAYOUT DIVS
+--------------------------------------------------------- */
+.main {
+  background: url(../images/shadow-bg.png) repeat-y center top;
+}
+
+/* HEADER
+--------------------------------------------------------- */
+#ja-header .main-inner1 {
+  background:none;
+}
+
+/* Logo Image ---*/
+h1.logo a {
+  background-image: url(../images/logo.png);
+}
+
+/* Social list ---*/
+ul.social-list {
+  background: none;
+}
+
+ul.social-list li {
+  border-left: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+ul.social-list li a {
+  background-image: url(../images/icon-social.png);
+  background-repeat: no-repeat;
+  background-color: #fff;
+}
+
+/* Search ---*/
+#ja-search {
+  border-left: 1px solid #ddd;
+}
+
+/* Main background ---*/
+#ja-full-bg .main-background {
+	background: url(../images/main-bg.png) no-repeat center 465px;
+}
+
+/* Box Navigations */
+#ja-botsl1 ul.menu li a {
+	color:#fff;
+}
+
+#ja-botsl1 ul.menu li a:hover {
+	color:#e31837;
+}
+
+/* JA Navhelper */
+#ja-navhelper {
+	background: url(../images/bkg-diagonal-navhelper.png) no-repeat center 65px;
+}
+
+
+/* Bottom spotlight 1 ---*/
+#ja-botsl1 {
+  background: url(../images/pattern-d.gif) repeat left top #000;
+  color: #999;
+}
+
+#ja-botsl1 h3{
+  color: #e31837;
+}
+
+#ja-botsl1 .acymailing_form input.subbutton{
+	background:url(../images/btn-go.png) no-repeat left top;
+}
+
+/* FOOTER
+----------------------------------------------------------- */
+#ja-footer {
+  background: url(../images/pattern-d.gif) repeat left top #000;
+}
+
+#ja-footer .main{
+	background: #e31837;
+}
+
+#ja-footer .main a{
+	color:#000;
+}
+
